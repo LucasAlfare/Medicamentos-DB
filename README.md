@@ -2,7 +2,7 @@
 Repositório para guardar/reunir diversas informações sobre os principais medicamentos em uso no Brasil.
 
 # Fontes
-As fontes podem ser as mais variadas. Por enquanto, nas versões iniciais, estarei reunindo as informações contidas no documento https://files.cercomp.ufg.br/weby/up/734/o/Guia_de_Interacoes_Medicamentosas.pdf?140905.
+As fontes podem ser as mais variadas. Por enquanto, nas versões iniciais, estarão sendo reunidas as informações contidas no documento https://files.cercomp.ufg.br/weby/up/734/o/Guia_de_Interacoes_Medicamentosas.pdf?140905.
 
 # Contribuindo
 As contribuições são bem vindas desde que acompanhem as devidas referências bibliográficas.
