@@ -17,6 +17,7 @@ Medicamento | Interage com | Efeito Clínico | Grau da Interação | Início da 
 
 Para manter o formato do arquivo estável, as contribuições devem ter em mente os seguintes pontos:
 
+- Faça um fork deste repositório para sua conta e enviei commits ao seu fork;
 - Novos formatos ainda estão sendo discutidos portanto apenas contribuições com formato CSV serão implementadas (mediante a avaliação prévia);
 - Caso uma das informações que estiverem para ser adicionadas não tenha nenhuma informação relevante, sugere-se por escrever a abreviatura `--`;
 - Se for necessário adicionar uma nova coluna, como por exemplo, para uma nova informação sobre uma substância, por favor, envie a contribuição para uma ramificação à parte (_branch_) para que possa, assim, ser posteriormente implementada.
